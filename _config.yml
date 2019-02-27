@@ -26,3 +26,5 @@ gems:
 - jekyll-paginate
 exclude:
 - vendor
+
+theme: jekyll-theme-slate
